@@ -29,7 +29,7 @@ This project involves manual testing of the [Demo Web Shop](https://demowebshop.
 - Total Test Cases: 15
 - Passed: 15
 - Failed: 0
-- Bugs Reported: 3 (UI + Functional)
+- Bugs Reported: 0
 
 ## 📌 Note
 All testing was performed manually as part of a QA portfolio project.
